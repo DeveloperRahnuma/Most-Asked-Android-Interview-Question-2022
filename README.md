@@ -93,6 +93,64 @@
 
 ## Kotlin
 
+* **What are the benefits of Kotlin over Java**
+* 
+* **Explain the use of lateinit & lazy keywords**
+
+* **How to check lateinit class is initialize or not.**
+
+* **What is null safety in Kotlin?**
+
+* **What is the diff between Var & Val and const and val**
+
+* **What is Elvis operator?**
+
+* **What is Flow API in Kotlin**
+
+* **Explain coroutines in kotlin**
+
+* **What are scoped functions and there use in kotlin**
+
+* **What is singleton class and how can you declare it?**
+
+* **what is the diff between companion obj & object**
+
+* **Used extension functions? example**
+
+* **Data class and how its different from other classes.**
+
+* **Sealed class.**
+
+* **What is suspend function.**
+
+* **what is the diff between static & singleton Explain @jvmstatic @jvmoverloads @jvmfiled**
+
+* **Difference between volatile and syncronized.**
+
+* **Live data, Mutable live data and Mediator live data**
+
+* **Advantage of live data**
+
+* **What is flow , state flow and shared flow**
+
+* **Extension, inline, inflix and high order function and there benefit in term of memory.**
+
+* **Difference between public ( visiblity modifier ) and open keyword**
+
+* **Difference between volatile and synchronized.**
+
+* **Arraymap and hashmap.**
+
+* **How hashmap work in background.**
+
+* **What is referential equality and structal equality.**
+
+* **Will reference of two data class with same set of data will it be equal or not?**
+
+
+
+That’s a wrap for now! Many more to come
+I hope you find this blog helpful.
 
 
 
