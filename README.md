@@ -1,10 +1,8 @@
-<p align="center">
-<img alt="Most Asked Android Interview Questions 2022" src="">
-</p>
+![interview question by rahnuma sharib ](https://user-images.githubusercontent.com/31402470/205415809-309b7109-a9c1-4be8-a9ff-59b71f496776.png)
 
 # Most Asked Android Interview Questions In 2022
 
-> Most Asked Android Interview Questions In 2022 - Your Cheat Sheet For Android Interview Preparation
+> Most Asked Android Interview Questions In 2022 - Your Guide For Android Interview Preparation
 
 ## Prepared and maintained by [Rahnuma Sharib](https://www.linkedin.com/in/rahnumasharib/) who is having experience of taking interviews of many Android developers.
 
