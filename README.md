@@ -92,7 +92,7 @@
 ## Kotlin
 
 * **What are the benefits of Kotlin over Java**
-* 
+
 * **Explain the use of lateinit & lazy keywords**
 
 * **How to check lateinit class is initialize or not.**
@@ -146,6 +146,140 @@
 * **Will reference of two data class with same set of data will it be equal or not?**
 
 
+## Java
+
+* **What is the diff between encapsulation & abstraction give practical example**
+
+* **Explain OOP Concepts.**
+
+* **Will reference of two data class with same set of data will it be equal or not?**
+
+* **When to use array & Array List**
+
+* **What is the volatile keyword**
+
+* **What is the transient keyword**
+
+* **What is a diff between a string buffer & string builder**
+
+* **Why is string immutable**
+
+* **What is the diff between encapsulation & abstraction (practical example)**
+
+* **class A -> extends class B, implements interface C. Both have the same method fun add() {}, Which one will be implemented in class A? Try yourself**
+
+* **What is the difference between String test = new String(“X”) & String test = “X”. Explain String constant pool & String literal**
+
+
+
+## Kotlin Coroutines.
+
+
+* **What is coroutines.**
+
+* **What is coroutines dispatchers there type and work.**
+
+* **What is coroutines scope and its type.**
+
+* **What is coroutines context.**
+
+* **What is coroutines builder, its type and there work.**
+
+* **Difference between launch and async.**
+
+
+## ViewModel.
+
+* **What is ViewModel and its advantage.**
+
+* **How to instantiate viewmodel.**
+
+* **What is the difference between ViewModel and AndroidViewModel.**
+
+* **How ViewModel work internally.**
+
+* **How ViewModel retain data during configuration change.**
+
+* **During configuration change activity distroy and re-create then how view-model instance remain same.**
+
+* **What is view-model factory & how to pass data in view model constructor**
+
+* **Difference between shared view model and view model.**
+
+
+
+## Dependency Injection.
+
+* **What is Dependency Injection and its benefit.**
+
+* **Where should we write code of DI.**
+
+* **How hilt provide required object should we write it.**
+
+
+
+## Mvvm
+
+* **What is MVVM, and how does it work and its advantage.**
+
+* **what is the diff between MVP/MVC & MVVM**
+
+
+
+## Networking libraries ( Retrofit & Volley )
+
+* **Which one you prefer to use and why?**
+
+* **advantage of using retrofit.**
+
+
+
+## VCS ( Git)
+
+* **what is Marge and rebase in git.**
+
+* **how you create branch and work on them .**
+
+
+
+## Jetpack Compose
+
+* **What are the benefits of using Jetpack compose?**
+
+* **What is a Composable function?**
+
+* **What is a declarative approach?**
+
+* **What jetpack compose libraries have you used?**
+
+* **Explain compose UI basic components**
+
+
+
+## Testing
+
+* **In Unit testing, what is @Before & @Beforeclass annotation used for**
+
+* **Why should we use a Mockito lib?**
+
+* **Explain Unit & Instrumentation tests**
+
+
+
+## Data Structure
+
+* **What is Queue, Stack and Array.**
+
+* **The time complexity of Hash Table — O(1).**
+
+* **Best for getting the last item — Stack**
+
+* **Time Complexity of Binary Search — O(log N)**
+
+* **Which is best Sorting Algo — Quick Sort**
+
+* **Best performance for finding minimum value — Array**
+
 
 That’s a wrap for now! Many more to come
 I hope you find this blog helpful.
@@ -158,7 +292,7 @@ I hope you find this blog helpful.
 
 ### License
 ```
-   Copyright (C) 2022 Amit Shekhar
+   Copyright (C) 2022 Rahnuma Sharib
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
